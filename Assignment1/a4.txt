@@ -1,0 +1,73 @@
+commit b93ae5712dbdc690c00d9362b544e5da25685467 (HEAD -> master, origin/master)
+Author: David Shlivko <Dave@Davids-MacBook-Pro.local>
+Date:   Fri Nov 10 13:40:58 2017 -0800
+
+    Part 2 Added
+
+commit b76e482ade06a8dc2f8d80c6bf3c384bc22bc19d
+Author: David Shlivko <Dave@Davids-MacBook-Pro.local>
+Date:   Fri Oct 27 14:25:10 2017 -0700
+
+    LaTeX altered
+
+commit 8cfceabb389dcde26e88f44f8dcc7a6773285947
+Author: David Shlivko <Dave@Davids-MacBook-Pro.local>
+Date:   Fri Oct 27 13:53:43 2017 -0700
+
+    First commit
+
+
+python Assignment1copy.py 1 1 1 1 0 0.01 100 1 1
+python Assignment1copy.py 1 1 1 1 20 0.01 100 1 2
+python Assignment1copy.py 1 1 1 1 20 0.01 100 0 3
+pdflatex -shell-escape -interaction=nonstopmode -file-line-error Assignment1.tex
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+(./Assignment1.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty)
+(./Assignment1.aux)
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+<a1img1.png, id=1, 462.528pt x 346.896pt> <use a1img1.png>
+<a1img2.png, id=3, 462.528pt x 346.896pt> <use a1img2.png>
+<a1img3.png, id=4, 462.528pt x 346.896pt> <use a1img3.png> [1{/usr/local/texliv
+e/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./a1img1.png>] [2 <./a1im
+g2.png>] [3 <./a1img3.png>] (./Assignment1.aux) )</usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Assignment1.pdf (3 pages, 466001 bytes).
+Transcript written on Assignment1.log.
